@@ -200,7 +200,8 @@ function addTodo() {
 ~~~
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2025-09-12 161815" src="https://github.com/user-attachments/assets/27a2e733-77c3-45ad-9ce9-a982f2c61e63" />
+<img width="1220" height="600" alt="image" src="https://github.com/user-attachments/assets/c81ca7a0-2746-4676-840c-389be5802538" />
+
 
 
 ## RESULT
